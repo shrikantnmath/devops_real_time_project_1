@@ -72,6 +72,7 @@ pipeline {
                     --extra-vars "JOB_NAME=$JOB_NAME"'
             }            
         }        
-              
+        
+        
     }
 }      
